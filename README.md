@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" class="scroll-smooth">
 <head>
     <title>AQUVIA Development Works - Empowering Water, Finance, and Communities</title>
